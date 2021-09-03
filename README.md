@@ -15,6 +15,10 @@
   </ol>
 </details>
 
+## Requisitos
+- Visual Studio
+- Conhecimento em C# e .NET
+
 ## Principais estruturas
 ### DIALOG NODES
 São caixas (nodes) de diálogo onde usamos as intenções e entidades identificadas na entrada do usuário, além da condição escrita, para interagir com o usuário, e por fim, fornecer uma resposta.
