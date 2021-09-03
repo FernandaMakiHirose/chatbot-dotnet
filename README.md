@@ -11,3 +11,31 @@ São comandos que auxiliam na tomada de decisões durante a conversa, e que te s
 - `conversation_start` ou `welcome`: responsáveis por iniciar a conversa.
 - `anything_else`: é para onde vai a conversa quando nenhum outro Dialog Node é capaz de compreender a frase do usuário.
 - `true`: é um Dialog Node que aceita qualquer tipo de input para emitir sua resposta.
+
+## Quiz
+### Qual o SKD necessário para a criação de um Chatbot em C#?
+.NET Core.
+
+### O que é a IBM Watson?
+O Watson é uma plataforma aberta multi-cloud que permite automatizar e criar o ciclo de vida de IA, a qual pode ser utilizada para Chatbots.
+
+### É possível utilizar banco de dados no desenvolvimento de Chatbots?
+Sim, a utilização de Banco de Dados pode facilitar o armazenamento de informações e insights do negócio.
+
+### O que são as Entidades?
+É o substantivo relacionado ao desejo que foi detectado pelo chatbot. Por exemplo: Se a frase enviada pelo usuário for “gerar novo relatório”, a entidade poderia ser “relatório” ou “novo relatório”.
+
+### Quais as principais estruturas dentro do Watson Assistant?
+Dialog Nodes, Trigger e $Context.
+
+### Como podemos fazer a base de conhecimento?
+Pode ser feito manualmente, por APIs e por ferramentas como o IBM Discovery.
+
+### Cite 3 plataformas de desenvolvimento de assistentes virtuais.
+Watson Assistant, AlexaTollKit e DialogFlow.
+
+### O que são as Intenções?
+É o desejo que o chatbot perceberá que o usuário possui ao enviar uma mensagem específica. Por exemplo: ao enviar um “obrigado” a intenção do usuário é agradecer.
+
+### O que são Functions?
+São recursos que possibilitam uma computação sem servidor, provisionando infraestrutura por demanda.
