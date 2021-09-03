@@ -4,6 +4,8 @@
   <ol>
     <li>
       <a href="#principais-estruturas">Principais estruturas</a>
+    </li>
+    <li>
       <a href="#quiz">Quiz</a>
     </li>
   </ol>
