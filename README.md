@@ -7,6 +7,9 @@
       <a href="#principais-estruturas">Principais estruturas</a>
     </li>
     <li>
+      <a href="#licença">Licença</a>
+    </li>
+    <li>
       <a href="#quiz">Quiz</a>
     </li>
   </ol>
@@ -24,6 +27,9 @@ São comandos que auxiliam na tomada de decisões durante a conversa, e que te s
 - `conversation_start` ou `welcome`: responsáveis por iniciar a conversa.
 - `anything_else`: é para onde vai a conversa quando nenhum outro Dialog Node é capaz de compreender a frase do usuário.
 - `true`: é um Dialog Node que aceita qualquer tipo de input para emitir sua resposta.
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Quiz
 ### Qual o SKD necessário para a criação de um Chatbot em C#?
