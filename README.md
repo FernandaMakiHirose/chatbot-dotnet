@@ -19,6 +19,9 @@
 - Visual Studio
 - Conhecimento em C# e .NET
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Principais estruturas
 ### DIALOG NODES
 São caixas (nodes) de diálogo onde usamos as intenções e entidades identificadas na entrada do usuário, além da condição escrita, para interagir com o usuário, e por fim, fornecer uma resposta.
