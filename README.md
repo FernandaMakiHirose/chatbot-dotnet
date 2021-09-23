@@ -4,7 +4,7 @@
   <summary>Índice</summary>
   <ol>
     <li>
-      <a href="#principais-estruturas">Executar o código</a>
+      <a href="#executar-o-codigo">Executar o código</a>
     </li>
     <li>
       <a href="#principais-estruturas">Principais estruturas</a>
