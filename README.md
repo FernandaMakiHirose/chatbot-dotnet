@@ -7,6 +7,9 @@
       <a href="#principais-estruturas">Principais estruturas</a>
     </li>
     <li>
+      <a href="#principais-estruturas">Principais estruturas</a>
+    </li>
+    <li>
       <a href="#licença">Licença</a>
     </li>
     <li>
@@ -15,12 +18,13 @@
   </ol>
 </details>
 
+## Executar o código
+1. Abra o Visual Studio
+2. Clique no arquivo do path `\src\Functions\Chatbot.Functions`
+
 ## Requisitos
 - Visual Studio
 - Conhecimento em C# e .NET
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Principais estruturas
 ### DIALOG NODES
