@@ -21,6 +21,7 @@
 ## Executar o código
 1. Abra o Visual Studio
 2. Clique no arquivo do path `chatbot-dotnet\src\Functions\Chatbot.Functions`
+3. Execute o projeto pela IDE
 
 ## Requisitos
 - Visual Studio
